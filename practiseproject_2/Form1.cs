@@ -6,5 +6,10 @@ namespace practiseproject_2
         {
             InitializeComponent();
         }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("sdadwadwdaw");
+        }
     }
 }
